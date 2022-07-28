@@ -2,3 +2,8 @@
 .slide-image{
     filter: brightness(50%);
 }
+
+/* icons style */
+.icons{
+    color: gold;
+}
