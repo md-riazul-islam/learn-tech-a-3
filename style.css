@@ -1,6 +1,11 @@
 /* slide section style */
 .slide-image{
-    filter: brightness(50%);
+    filter: brightness(60%);
+}
+.btn-info{
+    color:white;
+    font-weight: 700;
+    background-color: #0ea5e9;
 }
 
 /* icons style */
@@ -18,4 +23,21 @@ footer{
 .footer-icons{
     font-size: 25px;
     margin-left: 10px;
+}
+
+.price-style{
+    color: #0ea5e9;
+    font-weight: 700;
+}
+
+.bg-color{
+    background-color:   #d1fae5;
+    padding: 10px 15px;
+}
+#register{
+    color: white;
+    background-color:#0c4a6e;
+}
+.title-colors{
+    font-weight: 700;
 }
